@@ -1,0 +1,22 @@
+h1{
+    justify-content: space-between;
+    display: flex;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+p,h2{
+    text-align: center;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.covid{
+    background-color:lightblue;
+}
+
